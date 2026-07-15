@@ -1559,6 +1559,16 @@
         "domains": ["asos.com"]
     },
     {
+        "name": "Asocks",
+        "url": "https://my.asocks.com/faq",
+        "difficulty": "hard",
+        "email": "support@asocks.com"
+        "domains": [
+            "asocks.com",
+            "my.asocks.com"
+        ]
+    },
+    {
         "name": "Assembla",
         "url": "https://www.assembla.com/user/edit/edit_account_settings",
         "difficulty": "easy",
